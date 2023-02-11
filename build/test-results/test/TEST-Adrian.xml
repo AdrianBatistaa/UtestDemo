@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Adrian" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-11T02:27:03" hostname="adrianfbatista-HP-14-Notebook-PC" time="1.176">
+  <properties/>
+  <testcase name="Successful registration" classname="Adrian" time="1.176"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4c511291
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1b390d34
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Successful registration:Given that the user is on the page [Adrian open up]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Successful registration:Given that the user is on the page [Adrian open up]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5a1fa8e6
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Successful registration:Given that the user is on the page [Adrian open up], When the user enter their information
+| firstname | lastname | email | month | day | year | mobile | model | operatingsystem |
+| jUANCHO | Batista | abatistaa@ufpso.edu.co | July | 26 | 1996 | Xiaomi | Redmi Note 9 | Android    10 |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@741119cc
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Successful registration:Given that the user is on the page [Adrian open up], When the user enter their information
+| firstname | lastname | email | month | day | year | mobile | model | operatingsystem |
+| jUANCHO | Batista | abatistaa@ufpso.edu.co | July | 26 | 1996 | Xiaomi | Redmi Note 9 | Android    10 |, Then the user will see his profile
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Successful registration:Given that the user is on the page [Adrian open up], When the user enter their information
+| firstname | lastname | email | month | day | year | mobile | model | operatingsystem |
+| jUANCHO | Batista | abatistaa@ufpso.edu.co | July | 26 | 1996 | Xiaomi | Redmi Note 9 | Android    10 |, Then the user will see his profile
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Successful registration:Given that the user is on the page [Adrian open up], When the user enter their information
+| firstname | lastname | email | month | day | year | mobile | model | operatingsystem |
+| jUANCHO | Batista | abatistaa@ufpso.edu.co | July | 26 | 1996 | Xiaomi | Redmi Note 9 | Android    10 |, Then the user will see his profile]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Successful registration:Given that the user is on the page [Adrian open up], When the user enter their information
+| firstname | lastname | email | month | day | year | mobile | model | operatingsystem |
+| jUANCHO | Batista | abatistaa@ufpso.edu.co | July | 26 | 1996 | Xiaomi | Redmi Note 9 | Android    10 |, Then the user will see his profile]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Successful registration
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

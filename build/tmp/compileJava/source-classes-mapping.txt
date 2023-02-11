@@ -1,0 +1,14 @@
+co/com/certificacion/utest/userinterface/DeviceInformation.java
+ co.com.certificacion.utest.userinterface.DeviceInformation
+co/com/certificacion/utest/model/UtestData.java
+ co.com.certificacion.utest.model.UtestData
+co/com/certificacion/utest/tasks/DeviceEnterInformation.java
+ co.com.certificacion.utest.tasks.DeviceEnterInformation
+co/com/certificacion/utest/userinterface/PersonalInformation.java
+ co.com.certificacion.utest.userinterface.PersonalInformation
+co/com/certificacion/utest/userinterface/UtestPage.java
+ co.com.certificacion.utest.userinterface.UtestPage
+co/com/certificacion/utest/tasks/OpenUp.java
+ co.com.certificacion.utest.tasks.OpenUp
+co/com/certificacion/utest/tasks/EnterInformation.java
+ co.com.certificacion.utest.tasks.EnterInformation
