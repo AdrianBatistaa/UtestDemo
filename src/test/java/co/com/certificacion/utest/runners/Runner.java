@@ -12,6 +12,6 @@ import org.junit.runner.RunWith;
         glue = "co.com.certificacion.utest.stepdefinitions",
         snippets = SnippetType.CAMELCASE)
 
-public class RunnerTags {
+public class Runner {
 
 }
